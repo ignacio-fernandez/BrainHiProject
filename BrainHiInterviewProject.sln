@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainHiInterviewProject", "BrainHiInterviewProject\BrainHiInterviewProject.csproj", "{5A4F5A10-3005-4784-936E-0D4A37661988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainHiInterviewProject.Test", "BrainHiInterviewProject.Test\BrainHiInterviewProject.Test.csproj", "{A8DDC019-6D3C-407A-952D-A730FC6E6F24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A4F5A10-3005-4784-936E-0D4A37661988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4F5A10-3005-4784-936E-0D4A37661988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4F5A10-3005-4784-936E-0D4A37661988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4F5A10-3005-4784-936E-0D4A37661988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8DDC019-6D3C-407A-952D-A730FC6E6F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8DDC019-6D3C-407A-952D-A730FC6E6F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8DDC019-6D3C-407A-952D-A730FC6E6F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8DDC019-6D3C-407A-952D-A730FC6E6F24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64651E64-4DE0-41E3-8D03-9CE0E3E3B6FC}
+	EndGlobalSection
+EndGlobal
