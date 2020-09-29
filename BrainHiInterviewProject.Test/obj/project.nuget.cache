@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GZJ8Ym851ycD5NxvYZRxcbf0gls4YWRViHqVZgQqkSmps9ksg1ZZFlSXo6zBtZPlvS7JWZSS4hgeO389+ndiKQ==",
+  "dgSpecHash": "0LK1EwhJ7xihqDRhQDjD7b4rumtHYkDsRdXqOZH6DXodzuycpYuJ0rN6ooPEHN9B4qhD7mCFq9GJjm5N4cEPeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ifern\\source\\repos\\BrainHiInterviewProject\\BrainHiInterviewProject.Test\\BrainHiInterviewProject.Test.csproj",
+  "projectFilePath": "C:\\Users\\ifern\\source\\repos\\BrainHiProject\\BrainHiInterviewProject.Test\\BrainHiInterviewProject.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ifern\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\ifern\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",

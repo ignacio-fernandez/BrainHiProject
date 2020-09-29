@@ -5121,11 +5121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ifern\\source\\repos\\BrainHiInterviewProject\\BrainHiInterviewProject.Test\\BrainHiInterviewProject.Test.csproj",
+      "projectUniqueName": "C:\\Users\\ifern\\source\\repos\\BrainHiProject\\BrainHiInterviewProject.Test\\BrainHiInterviewProject.Test.csproj",
       "projectName": "BrainHiInterviewProject.Test",
-      "projectPath": "C:\\Users\\ifern\\source\\repos\\BrainHiInterviewProject\\BrainHiInterviewProject.Test\\BrainHiInterviewProject.Test.csproj",
+      "projectPath": "C:\\Users\\ifern\\source\\repos\\BrainHiProject\\BrainHiInterviewProject.Test\\BrainHiInterviewProject.Test.csproj",
       "packagesPath": "C:\\Users\\ifern\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ifern\\source\\repos\\BrainHiInterviewProject\\BrainHiInterviewProject.Test\\obj\\",
+      "outputPath": "C:\\Users\\ifern\\source\\repos\\BrainHiProject\\BrainHiInterviewProject.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ifern\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5141,8 +5141,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ifern\\source\\repos\\BrainHiInterviewProject\\BrainHiInterviewProject\\BrainHiInterviewProject.csproj": {
-              "projectPath": "C:\\Users\\ifern\\source\\repos\\BrainHiInterviewProject\\BrainHiInterviewProject\\BrainHiInterviewProject.csproj"
+            "C:\\Users\\ifern\\source\\repos\\BrainHiProject\\BrainHiInterviewProject\\BrainHiInterviewProject.csproj": {
+              "projectPath": "C:\\Users\\ifern\\source\\repos\\BrainHiProject\\BrainHiInterviewProject\\BrainHiInterviewProject.csproj"
             }
           }
         }
